@@ -4,3 +4,7 @@ Motivation:
 * How to create threads in java.
 * To understand Java thread constructs join,wait,notify, 
   synchronized keyword, synchronized block. 
+
+Note:
+==============================================
+* Each package explains different java thread construct.
